@@ -8,4 +8,3 @@ for i in range (1, rows + 1):
     for J in range (1, i + 1):
         print(J, end=" ")
     print(' ')
-    
