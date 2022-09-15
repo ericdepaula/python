@@ -1,4 +1,4 @@
-print('Pattern exercise')
+print('Pattern exercicio')
 # quantidade de Linha(rows) que terá
 rows = 5
 
